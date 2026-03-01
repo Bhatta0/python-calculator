@@ -1,4 +1,4 @@
-# Python Calculator 🧮
+# Python Calculator
 
 A command-line calculator built with Python.
 
